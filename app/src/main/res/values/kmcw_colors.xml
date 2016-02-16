@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="kmcw_semitransparent_black">#A0000000</color>
+    <color name="kmcw_semitransparent_gray">#A0303030</color>
+    <color name="kmcw_semitransparent_orange">#A0FF8000</color>
+    <color name="kmcw_black">#FF000000</color>
+    <color name="kmcw_dark_gray">#FF303030</color>
+    <color name="kmcw_gray">#FFA0A0A0</color>
+    <color name="kmcw_green">#33FF33</color>
+    <color name="kmcw_orange">#FFFF8000</color>
+
+</resources>
